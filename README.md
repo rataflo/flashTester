@@ -12,4 +12,5 @@ Arduino device to test studio flash.
 - 4.7k resistor.
 - jack cable.
 
-## schematic
+## Schematic
+![Draw of schematic](https://github.com/rataflo/flashTester/blob/main/doc/schematic.png)
