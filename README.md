@@ -3,7 +3,7 @@ Arduino device to test studio flash.
 
 Fire flash every xx seconds and record if the flash actually flash or not.
 
-![Video in action](https://github.com/rataflo/flashTester/blob/main/doc/20240824_201901.mp4)
+![Video in action](https://github.com/rataflo/flashTester/blob/main/doc/20240824_201901.webm)
 
 Possible evolution: Calculate the time between sending the order to the flash and when the flash is performed.
 
