@@ -3,13 +3,15 @@ Arduino device to test studio flash.
 
 Fire flash every xx seconds and record if the flash actually flash or not.
 
+Possible evolution: Calculate the time between sending the order to the flash and when the flash is performed.
+
 ## Usage
 
 - Thresold: Choose the min photo resitor value to catch a flash. Max 1024. Default 900. You also can adjust sensitivity directly on the photo resistor with a small potentiometer.
 - Cycles: Number of cycles to test flash.
 - Recycling : time between flashing to let the flash recycle.
 - Good: value of previous test.
-- Band: value of previous test.
+- Bad: value of previous test.
 - Launch test : start the test. When finished the screen go to the main menu.
 
 Every parameters and test values are kept in the arduino memory.
